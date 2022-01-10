@@ -3,11 +3,11 @@ The Fibonacci sequence is one of the most famous formulas in mathematics because
 
 In the Universe...
 
-<img src="images/Screen Shot 2022-01-10 at 6.40.54 PM.png" width="225" height="200">
+<img src="images/Screen Shot 2022-01-10 at 6.40.54 PM.png" width="520" height="350">
 
 In Financial Markets...
 
-<img src="images/Screen Shot 2022-01-10 at 6.47.02 PM.png" width="260" height="190">
+<img src="images/Screen Shot 2022-01-10 at 6.47.02 PM.png" width="340" height="210">
 
 The primary goal of this project is to provide a harmonic trading function that can distinguish all points within a 5-point price structure given each Fibonacci calculation that corresponds with a specific harmonic pattern.
 
@@ -16,4 +16,4 @@ Harmonic trading patterns are comprised of five points: X, A, B, C, and D. In th
 
 So in the example we have below, there is a theoretical asset with a starting price of 1460 (represented by X) and then it makes a move up to 1520 (represented by A).  If we wanted to see what the rest of the prices would be at B, C, and D according to a "perfect bat pattern" we would plug in the values of 0.5 (represented by XAB), 0.618 (represented by ABC), 2.0 (represented by BCD), 0.886 (represented by XAD), and 1.27 (represented by ABCD).  All of these parameters would return what is seen below, and if all of the price levels were touched in the "potential reversal zone" then perhaps this could signal a buy.
 
-<img src="images/Screen Shot 2022-01-10 at 6.48.08 PM.png" width="875" height="450">
+<img src="images/Screen Shot 2022-01-10 at 6.48.08 PM.png" width="810" height="480">
